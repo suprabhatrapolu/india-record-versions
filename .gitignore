@@ -1,0 +1,4 @@
+REPORT.md
+__pycache__/
+*.pyc
+VALIDATION.md

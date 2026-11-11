@@ -1,0 +1,16 @@
+# This CITATION.cff file references the author of the archive's records.
+# The data files are released under CC BY 4.0 (see LICENSE-DATA);
+# give credit to the author below.
+cff-version: 1.2.0
+message: "If you use this data, please cite the author."
+authors:
+  - family-names: Rapolu
+    given-names: Suprabhat
+    orcid: "0009-0007-8335-5868"
+    name-particle: ""
+    name-suffix: ""
+title: "India Record Versions (v0)"
+version: v0
+date-released: "2026-11-11"
+url: "https://github.com/suprabhatrapolu/india-record-versions"
+license: CC-BY-4.0
